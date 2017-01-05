@@ -19,6 +19,7 @@ public class First {
         System.out.println("hoi");
         System.out.println("vierde");
         System.out.println("doei");
+        System.out.println("hallo");
         System.out.println("derde");
         System.out.println("vijfde");
     }
