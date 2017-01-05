@@ -17,7 +17,9 @@ public class First {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hoi");
+        System.out.println("vierde");
         System.out.println("doei");
+        System.out.println("derde");
     }
     
 }
